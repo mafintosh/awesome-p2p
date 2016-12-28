@@ -9,6 +9,7 @@ Existing systems that I really like for the simplicity and ingenuity
 
 * [BitTorrent - no nonsense specification. Easy to read and implement](https://wiki.theory.org/BitTorrentSpecification)
 * [PPSP - one of the papers that has inspired me the most in terms of making a modern file sharing network](https://datatracker.ietf.org/doc/rfc7574/?include_text=1)
+* [Scuttlebutt replication - Simple/efficient way of replicating append-only logs](http://www.cs.cornell.edu/home/rvr/papers/flowgossip.pdf)
 
 ## Data integrity / authentication
 
