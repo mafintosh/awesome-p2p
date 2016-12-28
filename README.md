@@ -6,6 +6,7 @@ A list of great resources on p2p things
 
 * [Dominic Tarr on asymmentric crypto](http://dominictarr.com/post/106497926352/asymmetric-cryptography-works-like-magic)
 * [Dominic Tarr on hashes](http://dominictarr.com/post/154769946347/fairly-tale-cryptography-2-hashes)
+* [PPSP - one of the papers that has inspired me the most in terms of making a modern file sharing network](https://datatracker.ietf.org/doc/rfc7574/?include_text=1)
 
 ## DHT / Peer discovery
 
