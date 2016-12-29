@@ -29,3 +29,4 @@ In a distributed system finding other peers interested in the same topic as you 
 How to connect to other peers
 
 * [ZeroTier blog post about hole punching](https://www.zerotier.com/blog/?p=226)
+* [pwnat - two-way hole punching with no 3rd Party](https://samy.pl/pwnat/)
