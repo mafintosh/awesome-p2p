@@ -15,7 +15,7 @@ Existing systems that I really like for the simplicity and ingenuity
 
 Ways of securing / verifying data when receiving it from untrusted peers
 
-* [Dominic Tarr on asymmentric crypto](http://dominictarr.com/post/106497926352/asymmetric-cryptography-works-like-magic)
+* [Dominic Tarr on asymmetric crypto](http://dominictarr.com/post/106497926352/asymmetric-cryptography-works-like-magic)
 * [Dominic Tarr on hashes](http://dominictarr.com/post/154769946347/fairly-tale-cryptography-2-hashes)
 
 ## DHT / Peer discovery
