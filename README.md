@@ -11,6 +11,7 @@ Existing systems that I really like for the simplicity and ingenuity
 * [PPSP - one of the papers that has inspired me the most in terms of making a modern file sharing network](https://datatracker.ietf.org/doc/rfc7574/?include_text=1)
 * [Scuttlebutt replication - Simple/efficient way of replicating append-only logs](http://www.cs.cornell.edu/home/rvr/papers/flowgossip.pdf)
 * [osm-p2p-db - substack explains the arcitecture of a p2p mapping system](https://github.com/digidem/osm-p2p-db/blob/master/doc/architecture.markdown)
+* [classified-ads - P2P messaging app focusing to messaging forums](https://github.com/operatornormal/classified-ads/)
 
 ## Data integrity / authentication
 
